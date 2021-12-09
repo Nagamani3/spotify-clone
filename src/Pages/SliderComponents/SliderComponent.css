@@ -1,0 +1,204 @@
+#sliderBlock{
+    background: rgb(150,240,182);
+    height:560px;
+}
+#sliderBlock article{
+
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    height: 80%;
+    /* align-items: center; */
+    min-height: 500px;
+}
+
+#sliderBlock article .sliderLeft{
+    flex-basis: 60%;
+}
+#sliderBlock article .sliderRight{
+    flex-basis: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.sliderLeft{
+    color: #202f72;
+    margin: 80px 0;
+}
+.sliderLeft h4{
+    padding-bottom: 50px;
+    font-size: 14px;
+}
+.sliderLeft h1{
+font-size: 3.5rem;
+font-weight: bolder;
+text-transform: capitalize;
+padding-bottom: 40px;
+}
+p.enjoy{
+ font-size: 20px;
+ font-weight: bold;
+ padding-bottom: 50px;
+ letter-spacing: 1.3px;
+}
+.sliderLeft button{
+    padding: 17px 48px;
+    border-radius: 500px;
+    border: none;
+    background: #202f72 !important;
+    color: rgb(150,240,182);
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.sliderRight figure{
+    background: url(./Sideimage.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 100%;
+    background-position: center center;
+}
+.copywrite{
+    font-size: 13px;
+}
+#thirdblock{
+    background: #F89DD3;
+    height:560px;
+    background-image: url('https://www-growth.scdn.co/static/home/wrapped-homepage-banner-graphic-desktop.svg');
+}
+
+#thirdblock article{
+    
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    height: 100%;
+    /* align-items: center; */
+    min-height: 630px;
+}
+#thirdblock article .sliderLeft1{
+    flex-basis: 60%;
+}
+#thirdblock article .sliderRight1{
+    flex-basis: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.sliderLeft1{
+    color: #202f72;
+    margin: 80px 0;
+}
+.sliderLeft1 h4{
+    padding-bottom: 50px;
+    font-size: 14px;
+}
+.sliderLeft1 h1{
+font-size: 3.5rem;
+font-weight: bolder;
+text-transform: capitalize;
+padding-bottom: 40px;
+}
+p.enjoy1{
+ font-size: 20px;
+ font-weight: bold;
+ padding-bottom: 50px;
+ letter-spacing: 1.3px;
+}
+.sliderLeft1 button{
+    padding: 17px 48px;
+    border-radius: 500px;
+    border: none;
+    background: #202f72 !important;
+    color: rgb(150,240,182);
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.sliderRight1 figure{
+    
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 100%;
+    background-position: center center;
+}
+.copywrite1{
+    font-size: 13px;
+}
+#secondblock{
+    background:rgb(41, 65, 171);
+    height:560px;
+    background-image: url("https://content-tooling.spotifycdn.com/images/b236bf87-bfd5-4bcb-b51a-77881073039c_lie_circles.svg");
+}
+
+#secondblock article{
+    
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    height: 100%;
+    /* align-items: center; */
+    min-height: 630px;
+}
+#secondblock article .sliderLeft2{
+    flex-basis: 60%;
+}
+#secondblock article .sliderRight2{
+    flex-basis: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.sliderLeft2{
+    color:#1ed760;
+    margin: 80px 0;
+}
+.sliderLeft2 h4{
+    padding-bottom: 50px;
+    font-size: 14px;
+}
+.sliderLeft2 h1{
+font-size: 3.5rem;
+font-weight: bolder;
+text-transform: capitalize;
+padding-bottom: 40px;
+}
+p.enjoy2{
+ font-size: 20px;
+ font-weight: bold;
+ padding-bottom: 50px;
+ letter-spacing: 1.3px;
+}
+.sliderLeft2 button{
+    padding: 17px 48px;
+    border-radius: 500px;
+    border: none;
+    background:#1ed760 !important;
+    color: #202f72 ;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.sliderRight figure{
+    background: url(./Sideimage.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 100%;
+    background-position: center center;
+}
+.copywrite2{
+    font-size: 13px;
+}
+
